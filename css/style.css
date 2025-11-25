@@ -1,0 +1,10 @@
+body {
+    height: 200vh;
+}
+img {
+    position: relative;
+ border: 5px solid #ff0606;
+border-radius: 4px;
+padding: 5px;
+
+}
